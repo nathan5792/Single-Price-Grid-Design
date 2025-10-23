@@ -26,7 +26,7 @@ This is my solution to the Single-Price-Grid on Frontend Mentor. Frontend Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/nathan5792/Single-Price-Grid-Design.git
 - Live Site URL: https://nathan5792.github.io/Single-Price-Grid-Design/
 
 ## My process
